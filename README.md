@@ -117,15 +117,6 @@ This was my **first solo ML project** and I learned a huge amount throughout the
 
 ---
 
-## 🔮 Future Improvements
-
-- Train for more epochs to reduce loss further
-- Use a larger or domain-specific dataset for better accuracy
-- Add a simple web UI using Gradio so anyone can chat with the model
-- Try larger models (7B) with more VRAM
-
----
-
 ## 👤 Author
 
 **Vishaal** — [@Vishaal1409](https://github.com/Vishaal1409)
